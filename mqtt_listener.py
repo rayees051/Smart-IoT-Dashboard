@@ -13,7 +13,7 @@ TOPIC = "lab/sensor"
 # THINGSPEAK CONFIG
 # =========================================================
 
-THINGSPEAK_API_KEY = "IR9C9ZHQ0P2IIU8C"
+THINGSPEAK_API_KEY = os.getenv("THINGSPEAK_API_KEY")
 
 THINGSPEAK_URL = (
     "https://api.thingspeak.com/update"
