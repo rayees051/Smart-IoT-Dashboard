@@ -2,9 +2,11 @@ import paho.mqtt.client as mqtt
 import json
 import os
 import time
+from dotenv import load_dotenv
 #import streamlit as st
 import requests
 import time
+load_dotenv()
 BROKER = "192.168.1.6"
 PORT = 1883
 TOPIC = "lab/sensor"

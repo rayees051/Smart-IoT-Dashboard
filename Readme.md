@@ -1,6 +1,10 @@
 # Smart IoT Dashboard using MQTT, Streamlit & NodeMCU
 
-![Dashboard](assets/1,2,3,4.png)
+![Dashboard](assets/1.png)
+![Dashboard](assets/2.png)
+![Dashboard](assets3.png)
+![Dashboard](assets/4.png)
+![Dashboard](assets/5.png)
 
 ## Features
 
